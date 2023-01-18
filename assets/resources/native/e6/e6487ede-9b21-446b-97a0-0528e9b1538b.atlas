@@ -1,0 +1,76 @@
+
+versus_font.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: false
+  xy: 376, 267
+  size: 229, 181
+  orig: 229, 181
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 619, 636
+  size: 255, 260
+  orig: 255, 260
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 607, 260
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+s_1
+  rotate: false
+  xy: 876, 708
+  size: 140, 188
+  orig: 140, 188
+  offset: 0, 0
+  index: -1
+thunder_1
+  rotate: false
+  xy: 376, 450
+  size: 131, 446
+  orig: 131, 446
+  offset: 0, 0
+  index: -1
+thunder_2
+  rotate: false
+  xy: 509, 450
+  size: 108, 446
+  orig: 108, 446
+  offset: 0, 0
+  index: -1
+thunder_a
+  rotate: false
+  xy: 2, 313
+  size: 372, 583
+  orig: 372, 583
+  offset: 0, 0
+  index: -1
+thunder_b
+  rotate: false
+  xy: 2, 2
+  size: 292, 309
+  orig: 292, 309
+  offset: 0, 0
+  index: -1
+v_1
+  rotate: true
+  xy: 619, 449
+  size: 185, 242
+  orig: 185, 242
+  offset: 0, 0
+  index: -1
+vs
+  rotate: false
+  xy: 296, 70
+  size: 167, 195
+  orig: 167, 195
+  offset: 0, 0
+  index: -1

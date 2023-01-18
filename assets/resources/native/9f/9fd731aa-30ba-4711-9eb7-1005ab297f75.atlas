@@ -1,0 +1,90 @@
+
+loading_chick_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 290
+  size: 222, 207
+  orig: 222, 207
+  offset: 0, 0
+  index: -1
+cloak
+  rotate: true
+  xy: 2, 55
+  size: 233, 133
+  orig: 233, 133
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 137, 96
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: true
+  xy: 226, 292
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+foot_l
+  rotate: false
+  xy: 430, 427
+  size: 78, 70
+  orig: 78, 70
+  offset: 0, 0
+  index: -1
+foot_r
+  rotate: false
+  xy: 137, 115
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 312, 315
+  size: 116, 70
+  orig: 116, 70
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 226, 310
+  size: 84, 187
+  orig: 84, 187
+  offset: 0, 0
+  index: -1
+helmet_1
+  rotate: false
+  xy: 312, 387
+  size: 116, 110
+  orig: 116, 110
+  offset: 0, 0
+  index: -1
+helmet_2
+  rotate: false
+  xy: 430, 373
+  size: 19, 52
+  orig: 19, 52
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 2
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 137, 186
+  size: 102, 99
+  orig: 102, 99
+  offset: 0, 0
+  index: -1

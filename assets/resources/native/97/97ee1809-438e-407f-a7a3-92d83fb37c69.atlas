@@ -1,0 +1,83 @@
+
+versus_arrival.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_blue
+  rotate: false
+  xy: 2, 514
+  size: 512, 491
+  orig: 512, 491
+  offset: 0, 0
+  index: -1
+bg_red
+  rotate: false
+  xy: 2, 21
+  size: 512, 491
+  orig: 512, 491
+  offset: 0, 0
+  index: -1
+black
+  rotate: true
+  xy: 2, 2
+  size: 17, 65
+  orig: 17, 65
+  offset: 0, 0
+  index: -1
+fire_01
+  rotate: true
+  xy: 516, 297
+  size: 708, 158
+  orig: 708, 158
+  offset: 0, 0
+  index: -1
+fire_02
+  rotate: true
+  xy: 676, 351
+  size: 654, 165
+  orig: 654, 165
+  offset: 0, 0
+  index: -1
+line_light_01
+  rotate: false
+  xy: 843, 409
+  size: 56, 309
+  orig: 56, 309
+  offset: 0, 0
+  index: -1
+line_light_02
+  rotate: true
+  xy: 843, 720
+  size: 285, 82
+  orig: 285, 82
+  offset: 0, 0
+  index: -1
+shine_1
+  rotate: true
+  xy: 901, 571
+  size: 147, 116
+  orig: 147, 116
+  offset: 0, 0
+  index: -1
+shine_2
+  rotate: false
+  xy: 516, 28
+  size: 126, 37
+  orig: 126, 37
+  offset: 0, 0
+  index: -1
+spark_01
+  rotate: false
+  xy: 516, 67
+  size: 320, 228
+  orig: 320, 228
+  offset: 0, 0
+  index: -1
+spark_02
+  rotate: true
+  xy: 838, 137
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
